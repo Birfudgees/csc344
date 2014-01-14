@@ -1,3 +1,3 @@
 csc344
 ======
-hi
+WavProject.java is my unfinished project file.  
