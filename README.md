@@ -1,3 +1,3 @@
 csc344
 ======
-WavProject.java is my unfinished project file.  
+For project 2, see the PluginProcessor.cpp file in the Project 2 Folder.  
