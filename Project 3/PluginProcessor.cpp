@@ -1,9 +1,10 @@
 /*
   ==============================================================================
 
-    This file was auto-generated!
-
-    It contains the basic startup code for a Juce application.
+    CSC 344 Project 3
+    Kyle Schaefer
+    
+    This distortion/delay plugin was adapted from Luke Baumann's delay filter as well as the JUCE demo plugin.  
 
   ==============================================================================
 */
